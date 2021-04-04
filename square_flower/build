@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+convert +dither -colors 4 -delay 1x30 -size 500x500 *.png square-flower.gif
